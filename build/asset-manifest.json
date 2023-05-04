@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a7c69516.css",
+    "main.js": "/static/js/main.05165e76.js",
+    "static/media/baby.png": "/static/media/baby.e24f7c2dab0bf27a749f.png",
+    "static/media/HelveticaNeue Light.ttf": "/static/media/HelveticaNeue Light.2d7491fe233df3ce53e2.ttf",
+    "static/media/Helvetica Neu Bold.ttf": "/static/media/Helvetica Neu Bold.61acdee6f288cddccf23.ttf",
+    "static/media/foot.svg": "/static/media/foot.bbc5bf7f958305fdad0b23b0328b3bbc.svg",
+    "static/media/edit.svg": "/static/media/edit.87627f46aa69dd5d4ab6b2553d80ace0.svg",
+    "index.html": "/index.html",
+    "static/media/attachFile.svg": "/static/media/attachFile.b6e95e497b345e18998f0eee3320cfec.svg",
+    "static/media/Delete.svg": "/static/media/Delete.4f5c35951a74ded38230ea2df9674b8c.svg",
+    "static/media/line.svg": "/static/media/line.cf1435472d6cc1e1788c7d7e9e0e32f7.svg",
+    "static/media/lineDot.svg": "/static/media/lineDot.6be54647b08a5eb90eb4309aa095e3d8.svg",
+    "main.a7c69516.css.map": "/static/css/main.a7c69516.css.map",
+    "main.05165e76.js.map": "/static/js/main.05165e76.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a7c69516.css",
+    "static/js/main.05165e76.js"
+  ]
+}
